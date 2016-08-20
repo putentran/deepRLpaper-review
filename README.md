@@ -1,2 +1,2 @@
 # deepRLpaper-review
-short summaries or gists of deep RL papers
+short summaries and gists of deep RL papers
